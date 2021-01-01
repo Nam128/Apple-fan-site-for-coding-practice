@@ -1,0 +1,42 @@
+h1 {
+  text-align:center;
+  border-bottom: grey 1pt solid;
+  margin:0pt;
+  margin-top:5pt;
+  color:white;
+}
+a {
+  color:white;
+  text-decoration-line: none
+}
+h2 {
+  text-align:center;
+}
+
+
+/*div {
+  display:grid;
+  grid-template-columns:150pt 1fr;
+}*/
+
+
+/*h3 {
+  text-decoration: underline;
+}*/
+
+body {
+  background-color:black;
+  color:white;
+}
+
+@media(max-width:1084px) {
+
+}
+
+@media(min-width:1084px) {
+  
+}
+
+#green {
+  color:lightgreen
+}
